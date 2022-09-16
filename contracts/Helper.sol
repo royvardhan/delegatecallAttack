@@ -9,3 +9,5 @@ contract Helper {
         num = _num;
     }
 }
+
+// A basic helper contract
